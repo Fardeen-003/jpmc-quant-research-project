@@ -14,6 +14,10 @@ The goal of this project is to apply data analysis and quantitative techniques t
 - Built a model to estimate prices for any given date
 - Identified seasonal trends using time-series visualization
 
+## 📊 Sample Output
+
+![Price Trend](Natural_gas_graph.png)
+
 ---
 
 ### 2️⃣ Contract Pricing Model
