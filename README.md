@@ -16,7 +16,7 @@ The goal of this project is to apply data analysis and quantitative techniques t
 
 ## 📊 Sample Output
 
-![Price Trend](Natural_gas_graph.png)
+![Price Trend](price_trend.png)
 
 ---
 
